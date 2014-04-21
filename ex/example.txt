@@ -1,0 +1,5 @@
+====
+
+node ../logoUtil.js -icon:icon.png -launch:icon.png -color:#ffffff
+
+===
